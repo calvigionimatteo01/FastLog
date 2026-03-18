@@ -1,3 +1,12 @@
+
+## Download (ready-to-use)
+
+👉 https://gumroad.com/l/fastlog
+
+
+
+
+
 FastLog
 
 Tool da linea di comando per analizzare file di log in modo veloce.
