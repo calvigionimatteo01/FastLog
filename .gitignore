@@ -1,4 +1,6 @@
+release/
 fastlog
+*.exefastlog
 *.exe
 release/release/
 *.exe
